@@ -1,1 +1,1 @@
-# High-Availability-IaC-Project
+# ha-iac-infra
